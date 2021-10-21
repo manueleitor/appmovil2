@@ -1,0 +1,92 @@
+{
+    "data":[
+    {
+        "name":"1: Visita un profesional de la salud :",
+        "state":"Look, kid...",
+        "description":"para un chequeo general, descartar enfermedades que puedan llevarte a un aumento de peso y además que diseñe un plan de alimentación de acuerdo a tus gustos y objetivos.",
+        "image":"corazon.jfif"
+    },
+    {
+        "name":"2: Come saludable:",
+        "state":"your thoughts betray you",
+        "description":"Una dieta saludable es alta en vegetales, fruta, fibra y baja en grasas saturadas, sal y azúcar. Además, las porciones deben ser controladas.",
+        "image":"postura.jfif"   
+    },
+    {
+        "name":"3: No hay alimentos buenos o malos",
+        "state":"You're My Only Hope",
+        "description":"Más bien, hay maneras buenas o malas de comerlos. Las papas son saludables, pero existe una gran diferencia si la comes al horno con cascara o fritas con aceite y exceso de sal. El éxito está en la buena selección, el control y la mesura.",
+        "image":"cinta.jpg"
+    },
+    {
+        "name":"4: Utiliza el método del plato:",
+        "state":"You're My Only Hope",
+        "description":"Divide tu plato en 3 partes: La mitad debe ir ocupada en su totalidad por los vegetales, preferiblemente por ensaladas crudas. Una cuarta parte para las proteínas y la otra cuarta parte para los carbohidratos complejos.",
+        "image":"peso.jpg"
+    },
+    {
+        "name":"5: Come suficiente:",
+        "state":"You're My Only Hope",
+        "description":" “Nunca te quedes con hambre, pero cuando te sientas satisfecho, para de comer. Engaña tu estómago con agua, sopas y caldos desgrasados o ensalada fresca con vinagreta, para que así comas menos cantidad del plato principal y te sientas aun satisfecho.",
+        "image":"sonreir.jpg"
+    },
+    {
+        "name":"6: Come despacio y mastica bien los alimentos:",
+        "state":"You're My Only Hope",
+        "description":"La sensación de hambre suele desaparecer a los 30 minutos después de comenzar a comer, por tanto cuanto más despacio comas, menos calorías ingerirás.",
+        "image":"puente.png"
+    },
+    {
+        "name":"7: No debes saltarte ninguna comida:",
+        "state":"You're My Only Hope",
+        "description":"Nos referimos a desayuno, almuerzo, merienda y cena, lo ideal es comer cada 3-4 hs para evitar la ansiedad y perder peso en forma saludable y permanente.",
+        "image":"piernaa.png"
+    },
+    {
+        "name":"8: Toma agua:",
+        "state":"You're My Only Hope",
+        "description":"Entre dos y tres litros distribuidos a lo largo del día, para mantenerte hidratado y disminuir la ansiedad por comida.",
+        "image":"agua.jpg"
+    },
+    {
+        "name":"9: Elimina las frituras: ",
+        "state":"You're My Only Hope",
+        "description":"Prepara los alimentos a la plancha en sartén de teflón, wok o asados al horno, para minimizar la necesidad de aceite. Puedes utilizar aceites vegetales para cocinar y el de oliva para agregar a ensaladas (una cucharadita por comida).",
+        "image":"frito.jpg"
+    },
+    {
+        "name":"10: Disminuye el consumo de sal:",
+        "state":"You're My Only Hope",
+        "description":"Favorece la retención de líquidos y puede aumentar la presión arterial.",
+        "image":"sal.jfif"
+    },
+    {
+        "name":"11: Prepara y condimenta tus alimentos con:",
+        "state":"You're My Only Hope",
+        "description":"Sal baja en sodio, pimienta, ajo, cebolla, perejil, orégano, cilantro, tomillo, romero, jengibre, albahaca, curry, comino, mostaza normal, yogurt natural descremado sin azúcar, aceite de oliva, vinagre balsámico o normal, limón.",
+        "image":"condimento.jpg"
+    },
+    {
+        "name":"12: Selecciona muy bien los alimentos que te encantan:",
+        "state":"You're My Only Hope",
+        "description":"disfrútalos y consúmelos en su justa medida",
+        "image":"frutarisa.jpg"
+    },
+    {
+        "name":"13: Aprende a controlar la ansiedad:",
+        "state":"You're My Only Hope",
+        "description":"Diferencia si es hambre o ansiedad para comenzar a controlarla, existen muchas herramientas para lograrlo.",
+        "image":"ansiedad.jpg"
+    },
+    {
+        "name":"14: Haz ejercicio entre 3 y 5 veces a la semana:",
+        "state":"You're My Only Hope",
+        "description":"Practicar actividad física de manera regular, combinada con una dieta adecuada, es la manera más efectiva no sólo para bajar de peso, sino para mantener el peso con el tiempo. El ejercicio físico te ayudará a quemar calorías, reducir grasa corporal, y disminuir el riesgo de padecer numerosas enfermedades, como la diabetes, cardiopatías, e incluso algunos tipos de cáncer.",
+        "image":"ejr.jfif"
+    }
+
+        
+            
+    ]
+}
+

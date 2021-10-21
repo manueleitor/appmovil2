@@ -1,0 +1,20 @@
+<ion-header>
+  <ion-toolbar color="mycolor">
+    <ion-title>motivate</ion-title>
+  </ion-toolbar>
+
+</ion-header>
+<ion-content>
+
+  <ion-item *ngFor="let user of users">
+    <ion-avatar slot="start">
+      <img src="../../assets/imagenes/{{user.image}}">
+    </ion-avatar>
+       <ion-col>
+        <h2 class="colorblue">{{user.name}}</h2>
+        <p>{{user.description}}</p>
+       </ion-col>
+    
+  </ion-item>
+
+</ion-content>

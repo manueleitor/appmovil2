@@ -1,0 +1,74 @@
+{
+    "data":[
+    {
+        "name":"1: Salud cardiovascular:",
+        "state":"Look, kid...",
+        "description":"Participar en actividades cardiovasculares es saludable para el corazón. Tu corazón es un músculo, y empujarlo para que trabaje fuerte algunos días a la semana puede ayudarte a mejorar la salud cardiovascular.",
+        "image":"corazon.jfif"
+    },
+    {
+        "name":"2: Mejora tu postura:",
+        "state":"your thoughts betray you",
+        "description":"Hacer ejercicio de forma regular puede hacerte más consiente de tu postura. A medida que aumentas tu autoestima y estás más consiente de tus movimientos, comienzas a escuchar a tu cuerpo.",
+        "image":"postura.jfif"   
+    },
+    {
+        "name":"3: Mejora la composición corporal",
+        "state":"You're My Only Hope",
+        "description":"Cuando haces del ejercicio parte de tu estilo de vida, comienzas a notar cambios en cómo te ves y sientes. Puede que pierdas exceso de grasa corporal y que aumentes la masa muscular, lo que es maravilloso para tu apariencia, pero también ayuda al tu cuerpo a quemar calorías de formar más eficiente.",
+        "image":"cinta.jpg"
+    },
+    {
+            "name":"4: Controla el peso:",
+            "state":"You're My Only Hope",
+            "description":"El hacer ejercicio puede ayudarte a prevenir exceso de peso y ayudar a mantener la pérdida de peso. Cuando practicas una actividad física quemas calorías. Mientras más intensa la actividad, más calorías vas a quemar.",
+            "image":"peso.jpg"
+    },
+    {
+        "name":"5: Sonrie:",
+        "state":"You're My Only Hope",
+        "description":" “Sólo la alegría es garantía de salud y longevidad”. (Santiago Ramón y Cajal, médico español galardonado con el premio Nobel de Medicina en 1906).",
+        "image":"sonreir.jpg"
+    },
+    {
+        "name":"6: Animate y continua:",
+        "state":"You're My Only Hope",
+        "description":"La belleza es un estado de ánimo”. (Emilio Zola, escritor francés).",
+        "image":"puente.png"
+    },
+    {
+        "name":"7: Camina mucho:",
+        "state":"You're My Only Hope",
+        "description":"Caminar es el mejor ejercicio posible. Habitúate a caminar muy lejos”. (Thomas Jefferson, presidente de los Estados Unidos de América).",
+        "image":"piernaa.png"
+    },
+    {
+        "name":"8: Tu cuerpo lo es todo:",
+        "state":"You're My Only Hope",
+        "description":"Cuida tu cuerpo. Es el único lugar en el que tienes que vivir”. (Jim Rohn, empresario y orador estadounidense)",
+        "image":"abdominales.png"
+    },
+    {
+        "name":"9: Los mejores médicos del mundo son: ",
+        "state":"You're My Only Hope",
+        "description":"el doctor dieta, el doctor reposo y el doctor alegría",
+        "image":"personajes.png"
+    },
+    {
+        "name":"10: Cuida mas de tu salud que de tu dinero:",
+        "state":"You're My Only Hope",
+        "description":"Hay tanta gente que pierde su salud por amasar riquezas… y más adelante en su vida, tiene que perder sus riquezas para recuperar la salud",
+        "image":"carne.png"
+    },
+    {
+        "name":"11: La mayor riqueza:",
+        "state":"You're My Only Hope",
+        "description":"La primera riqueza es la salud”. (Ralph W. Emerson, escritor, filósofo y poeta estadounidense).",
+        "image":"rico.jpeg"
+    }
+
+        
+            
+    ]
+}
+

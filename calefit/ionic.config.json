@@ -1,0 +1,7 @@
+{
+  "name": "Calefit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

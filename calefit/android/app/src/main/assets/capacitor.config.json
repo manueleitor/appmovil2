@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Calefit",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

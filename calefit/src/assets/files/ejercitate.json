@@ -1,0 +1,17 @@
+{
+    "data":[
+      {
+            "name": "brazo",
+            "image": "brazo.jpg"
+        },
+        {
+            "name": "frontal",
+            "image": "frontal.jpg"
+        },
+        {
+            "name": "pierna",
+            "image": "pierna.jpg"
+        }
+    ]
+}
+
