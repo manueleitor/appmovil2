@@ -11,6 +11,26 @@
         {
             "name": "pierna",
             "image": "pierna.jpg"
+        },
+        {
+            "name": "Rutina de 30 dias",
+            "image": "30dias.jpeg"
+        },
+        {
+            "name": "Rutina para mejorar el core en casa",
+            "image": "core.jpeg"
+        },
+        {
+            "name": "Reto abdominales 30 dias",
+            "image": "crunh.jpeg"
+        },
+        {
+            "name": "Tonificar Gluteos",
+            "image": "gluteos.jpeg"
+        },
+        {
+            "name": "Reto 30 dias sentadillas",
+            "image": "sen.jpeg"
         }
     ]
 }
